@@ -20,8 +20,8 @@ The Education project is a comprehensive platform designed for educational insti
 
 ### Links
 
-- [Live Demo](#) <!-- Insert link to live demo -->
-- [GitHub Repository](#) <!-- Insert link to GitHub repository -->
+- [Education]() 
+
 
 ## Features
 
