@@ -20,7 +20,7 @@ The Education project is a comprehensive platform designed for educational insti
 
 ### Links
 
-- [Education]() 
+- [Education](https://project2forfrontend-manikandaraj-t-ns-projects.vercel.app/) 
 
 
 ## Features
