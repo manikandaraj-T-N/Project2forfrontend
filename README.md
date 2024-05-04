@@ -46,8 +46,7 @@ The Education project is a comprehensive platform designed for educational insti
 - HTML5
 - CSS3
 - JavaScript
-- Bootstrap <!-- If you used Bootstrap for styling -->
-- jQuery <!-- If you used jQuery for carousel or other dynamic elements -->
+- Bootstrap 
 
 ## Usage
 
