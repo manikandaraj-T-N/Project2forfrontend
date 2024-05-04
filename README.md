@@ -8,7 +8,6 @@
 - [Features](#features)
 - [Built With](#built-with)
 - [Usage](#usage)
-- [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
 ## Overview
@@ -51,10 +50,6 @@ The Education project is a comprehensive platform designed for educational insti
 ## Usage
 
 To use this project, clone the repository and open the `index.html` file in your web browser. Customize the content and styles to fit your educational institution or online learning platform.
-
-## Author
-
-- [Your Name](#) 
 
 ## Acknowledgments
 
