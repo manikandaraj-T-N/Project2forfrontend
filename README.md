@@ -16,6 +16,7 @@
 The Education project is a comprehensive platform designed for educational institutions or online learning platforms. It includes various sections to facilitate learning and information dissemination.
 
 ### Screenshot
+![Screenshot 2024-05-04 at 11-03-15 Education--](https://github.com/manikandaraj-T-N/Project2forfrontend/assets/93505267/febf00fa-4b85-4dd5-bfdb-3825fd5f4e8e)
 
 
 ### Links
